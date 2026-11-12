@@ -20,8 +20,9 @@
 
 1. [Grok share · этика / сингулярность / AGI](https://grok.com/share/c2hhcmQtMg_9b222d20-cdf2-4826-b9c9-212947a8e8f0)
 
-2. https://project-george.blogspot.com/  
-   [`loop/project-george.blogspot.md`](loop/project-george.blogspot.md)  
+2. **Петля времени · Исход** (июль 2024)  
+   https://project-george.blogspot.com/2024/07/blog-post.html  
+   блог: https://project-george.blogspot.com/ · [`loop/project-george.blogspot.md`](loop/project-george.blogspot.md)  
    [Модель не ест основания и оставляет место открытым](https://project-george.blogspot.com/2026/10/blog-post.html)
 
 3. [Grok · диалог · этика · сингулярность · чистый](2026-11-12%20grok%20·%20диалог%20·%20этика%20·%20сингулярность%20·%20чистый.md)
