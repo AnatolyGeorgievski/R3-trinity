@@ -13,6 +13,10 @@
 | `library/` | PDF чата в хронологии · манифест |
 | `library/_manifest.yaml` | список порядка |
 
+## Петля
+
+[Введение: разумные машины и горизонт Маска](https://grok.com/share/c2hhcmQtMg_9b222d20-cdf2-4826-b9c9-212947a8e8f0)
+
 ## Границы
 
 Не cadence · не R3-media · не fractal-тройка.  
